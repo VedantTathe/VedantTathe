@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React, SQL, SpringBoot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sanskar0609](https://github.com/VedantTathe)
+- 👨‍💻 All of my projects are available at [https://github.com/VedantTathe](https://github.com/VedantTathe)
 
-- 🔗 Check out my portfolio: [sanskarsontakkeportfolio.netlify.app](https://vedanttathe.netlify.app/)
+- 🔗 Check out my portfolio: [vedanttathe.netlify.app](https://vedanttathe.netlify.app/)
 
 - 💬 Ask me about **React, DSA, Java, HTML, CSS, PHP, javascript, Spring Boot**
 
